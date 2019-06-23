@@ -5,7 +5,7 @@ public class IsUnique {
 	
 	//Note :  In order to avoid conflict between upperCase and lowerCase letter make sure
 	//you can first convert whole string in either upper & lower case and then
-	//apply function. for example String s1= "rajuMUKE" it will return "rajuMUKE" as it is
+	//apply function. for example String s1= "rajuMUKE" it will return  "False"
 	// as a ascii value is different for lower case 'u' & 'U'.
 
 	public static void main(String[] args) {
